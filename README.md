@@ -19,7 +19,7 @@ Deberas agregar los nombres de los elementos que estaran en stock, su respectivo
 3. Have fun!
 
 ```
-* Ejemplo:
+- Ejemplo:
 
 OS: Windows 10
 compilador: gcc
