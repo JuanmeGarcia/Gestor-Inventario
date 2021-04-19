@@ -19,7 +19,7 @@ Deberas agregar los nombres de los elementos que estaran en stock, su respectivo
 3. Have fun!
 
 ```
-- Elemento de lista 1
+* Ejemplo
 
 OS: Windows 10
 compilador: gcc
