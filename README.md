@@ -23,7 +23,7 @@ IDE: Code Blocks
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Primero y antes que nada, deberás descargar un IDE para poder ejecurtarlo. Sin embargo también podrías ejecutarlo en la consola_
 
 _Dí cómo será ese paso_
 
