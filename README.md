@@ -11,9 +11,9 @@ Deberas agregar los nombres de los elementos que estaran en stock, su respectivo
 
 ### Pre-requisitos 📋
 
-_1.Sistema operativo Windows 7 en adelante, Linux o iOS\n
-2.Si tiene Windows deberas descargar el compilador MinGW, en caso de tener sistema operativo basado en unix unicamente deberas compilar y ejecutarlo\n
-3.Have fun!_
+1.Sistema operativo Windows 7 en adelante, Linux o iOS
+2.Si tiene Windows deberas descargar el compilador MinGW, en caso de tener sistema operativo basado en unix unicamente deberas compilar y ejecutarlo
+3.Have fun!
 
 ```
 Da un ejemplo
