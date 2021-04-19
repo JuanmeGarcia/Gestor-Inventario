@@ -2,9 +2,7 @@
 
 _Resumidamente, lo que hará este programa será gestionar los elementos que añadas a un arreglo de elementos, pudiendo seleccionar mediante un menu si quieres ordenarlos por stock, precio, u orden alfabetico en que se encuentre._
 
-***
 ---
-___
 
 ## Comenzando 🚀
 
@@ -12,6 +10,7 @@ _Para utilizar este programa, lo único que debes hacer es clonar el repositorio
 
 Deberas agregar los nombres de los elementos que estaran en stock, su respectivo precio, y por último se desplegara un menú que indicara al usuario como desea ordenarlo y visualizarlo.
 
+---
 
 ### Pre-requisitos 📋
 
@@ -24,6 +23,8 @@ OS: Windows 10
 compilador: gcc
 IDE: Code Blocks
 ```
+
+---
 
 ### Instalación 🔧
 
@@ -47,6 +48,7 @@ _Primero y antes que nada, deberás descargar un IDE para poder ejecurtarlo. Sin
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
+---
 
 ## Construido con 🛠️
 
