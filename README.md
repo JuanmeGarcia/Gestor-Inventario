@@ -52,8 +52,8 @@ _Puramente construido en el lenguaje de programación C_
 ## Autores ✒️
 
 
-* **blabla** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **[insertenombre de compas]** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **blabla** - *Trabajo Inicial* - 
+* **[insertenombre de compas]** - 
 
 
 
