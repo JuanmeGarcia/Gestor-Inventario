@@ -25,7 +25,7 @@ IDE: Code Blocks
 
 _Primero y antes que nada, deberás descargar un IDE para poder ejecurtarlo. Sin embargo también podrías ejecutarlo en la consola_
 
-####Para ejecutar en consola: 
+#### Para ejecutar en consola: 
 
 ```
 1. Abre la consola de tu sistema operativo (CTRL + r y escribes cmd).
@@ -34,7 +34,7 @@ _Primero y antes que nada, deberás descargar un IDE para poder ejecurtarlo. Sin
 4. Escribe "main.exe" sin las comillas.
 ```
 
-####Para ejecutar en el IDE
+#### Para ejecutar en el IDE
 
 ```
 1. Abre en el IDE descargado previamente la carpeta donde lo hayas descargado.
