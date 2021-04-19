@@ -2,6 +2,10 @@
 
 _Resumidamente, lo que hará este programa será gestionar los elementos que añadas a un arreglo de elementos, pudiendo seleccionar mediante un menu si quieres ordenarlos por stock, precio, u orden alfabetico en que se encuentre._
 
+***
+---
+___
+
 ## Comenzando 🚀
 
 _Para utilizar este programa, lo único que debes hacer es clonar el repositorio, tener un compilador de lenguaje C y un IDE que lo soporte._
@@ -52,8 +56,8 @@ _Puramente construido en el lenguaje de programación C_
 ## Autores ✒️
 
 
-* **blabla** - *Trabajo Inicial* - 
-* **[insertenombre de compas]** - 
+* **Yo** - *Trabajo Inicial* - 
+* **[inserte nombre de compas]** - 
 
 
 
