@@ -25,16 +25,20 @@ IDE: Code Blocks
 
 _Primero y antes que nada, deberás descargar un IDE para poder ejecurtarlo. Sin embargo también podrías ejecutarlo en la consola_
 
-_Dí cómo será ese paso_
+####Para ejecutar en consola: 
 
 ```
-Da un ejemplo
+1. Abre la consola de tu sistema operativo (CTRL + r y escribes cmd).
+2. Dirijete al directorio donde este los archivos del programa. Ejemplo C:\Users\NombreUsuario\Documents\NombreCarpeta\C 
+3. Escribe "gcc main.c -o main" sin las comillas.
+4. Escribe "main.exe" sin las comillas.
 ```
 
-_Y repite_
+####Para ejecutar en el IDE
 
 ```
-hasta finalizar
+1. Abre en el IDE descargado previamente la carpeta donde lo hayas descargado.
+2. Dirijete hacia la pestaña donde diga compilar y ejecutar.
 ```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
