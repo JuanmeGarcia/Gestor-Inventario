@@ -1,6 +1,6 @@
 # Gestor de Inventario
 
-_Resumidamente, lo que hará este programa será gestionar los elementos que añadas a un arreglo de elementos, pudiendo seleccionar mediante un menu si quieres ordenarlos por stock, precio, u orden alfabetico en que se encuentre._
+_Resumidamente, lo que hará este programa será gestionar los elementos que añadas en arreglo de elementos, pudiendo seleccionar mediante un menu si quieres ordenarlos por stock, precio, u orden alfabetico en que se encuentre._
 
 ---
 
