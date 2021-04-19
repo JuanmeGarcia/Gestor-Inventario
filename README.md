@@ -1,17 +1,19 @@
-# Título del Proyecto
+# Gestor de Inventario
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Resumidamente, lo que hará este programa será gestionar los elementos que añadas a un arreglo de elementos, pudiendo seleccionar mediante un menu si quieres ordenarlos por stock, precio, u orden alfabetico en que se encuentre._
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Para utilizar este programa, lo único que debes hacer es clonar el repositorio, tener un compilador de lenguaje C y un IDE que lo soporte._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Deberas agregar los nombres de los elementos que estaran en stock, su respectivo precio, y por último se desplegara un menú que indicara al usuario como desea ordenarlo y visualizarlo.
 
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_1.Sistema operativo Windows 7 en adelante, Linux o iOS
+2.Si tiene Windows deberas descargar el compilador MinGW, en caso de tener sistema operativo basado en unix unicamente deberas compilar y ejecutarlo
+3.Have fun!_
 
 ```
 Da un ejemplo
@@ -39,33 +41,11 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Puramente construido en el lenguaje de programación C_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
 ## Contribuyendo 🖇️
 
@@ -81,25 +61,9 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
 
 
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
