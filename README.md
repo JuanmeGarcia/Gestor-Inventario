@@ -48,7 +48,7 @@ _Primero y antes que nada, deberás descargar un IDE para poder ejecurtarlo. Sin
 2. Dirijete hacia la pestaña donde diga compilar y ejecutar.
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+
 
 ---
 
