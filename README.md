@@ -60,7 +60,7 @@ _Puramente construido en el lenguaje de programación C_
 ## Autores ✒️
 
 
-* **García Carballo Juan **
+* **García Carballo Juan**
 * **Bautista Villaverde Juan **
 * **Mardysk Lautaro ** 
 
