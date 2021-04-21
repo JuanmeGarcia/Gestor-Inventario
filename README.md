@@ -60,8 +60,9 @@ _Puramente construido en el lenguaje de programación C_
 ## Autores ✒️
 
 
-* **Yo** - *Trabajo Inicial* - 
-* **[inserte nombre de compas]** - 
+* ** García Carballo Juan **
+* ** Bautista Villaverde Juan **
+* ** Mardysk Lautaro ** 
 
 
 
