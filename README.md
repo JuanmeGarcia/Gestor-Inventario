@@ -62,7 +62,7 @@ _Puramente construido en el lenguaje de programación C_
 
 * **García Carballo Juan** -
 * **Bautista Villaverde Juan** -
-* **Mardysk Lautaro** - 
+* **Mardyks Lautaro** - 
 
 
 
