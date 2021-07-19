@@ -1,6 +1,6 @@
 # Gestor de Inventario
 
-_Resumidamente, lo que hará este programa será gestionar los elementos que añadas en arreglo de elementos, pudiendo seleccionar mediante un menu si quieres ordenarlos por stock, precio, u orden alfabetico en que se encuentre._
+_Resumidamente, lo que hará este programa será gestionar una serie de productos electronicos, similar a un e-commerce con la opcion de retirar en el local, o si prefiere envio a domicilio.Se limita el stock a una cierta cantidad, si se excede no se podra completar la transacción._
 
 ---
 
